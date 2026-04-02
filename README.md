@@ -10,7 +10,7 @@ When the Hiro marker is scanned, 3 shapes appear:
 Each one has a different color, position, size, and animation. My name is also shown above the shapes.
 
 ## How to Use
-1. Open the hosted GitHub link on a phone or laptop with a camera.
+1. Open the hosted GitHub link on a phone or laptop with a camera : https://mmaqbolalghamdi-sudo.github.io/cpis360-webAR-maker/.
 2. Allow camera access.
 3. Show the Hiro marker on another screen or on a printed paper.
 4. The shapes should appear on the marker.
